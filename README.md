@@ -24,7 +24,7 @@
 
 2. **Pair Code Setup**  
    <p align="center">
-     <a href="https://kingm-pairserver.vercel.app/">
+     <a href="https://peace-hub-mcbo.onrender.com/pair">
        <img src="https://img.shields.io/badge/Get%20Pair--Code-animeblue?style=for-the-badge&logo=whatsapp" alt="Pair Code">
      </a>
    </p>
